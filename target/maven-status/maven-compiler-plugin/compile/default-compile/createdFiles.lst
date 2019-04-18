@@ -1,0 +1,13 @@
+META-INF/spring-configuration-metadata.json
+com/technohub/demo/config/alumni/TenantDvdRentalIdentifierResolverImpl.class
+com/technohub/demo/main/Application.class
+com/technohub/demo/config/alumni/MultiTenantDvdRentalProperties$DataSourceProperties.class
+com/technohub/demo/config/alumni/MultiTenantJpaConfiguration.class
+com/technohub/demo/config/alumni/MultiTenantDvdRentalProperties.class
+com/technohub/demo/rest/DvdRentalMultiTenantInterceptor.class
+com/technohub/demo/rest/WebMvcConfiguration.class
+com/technohub/demo/config/alumni/DvdRentalDataSourceMultiTenantConnectionProviderImpl.class
+com/technohub/demo/rest/DemoResource.class
+com/technohub/alumni/model/Person.class
+com/technohub/alumni/dao/PersonDao.class
+com/technohub/demo/config/alumni/DvdRentalTenantContext.class

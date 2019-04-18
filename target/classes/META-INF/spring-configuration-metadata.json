@@ -1,0 +1,13 @@
+{
+  "groups": [{
+    "name": "multitenancy.dvdrental",
+    "type": "com.technohub.demo.config.alumni.MultiTenantDvdRentalProperties",
+    "sourceType": "com.technohub.demo.config.alumni.MultiTenantDvdRentalProperties"
+  }],
+  "properties": [{
+    "name": "multitenancy.dvdrental.data-sources",
+    "type": "java.util.List<com.technohub.demo.config.alumni.MultiTenantDvdRentalProperties.DataSourceProperties>",
+    "sourceType": "com.technohub.demo.config.alumni.MultiTenantDvdRentalProperties"
+  }],
+  "hints": []
+}
